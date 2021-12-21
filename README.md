@@ -10,7 +10,7 @@
 
 ## INPUT2: Cleaned Articles
 1. Download files from INPUT2: Cleaned Articles zip folder, run INPUT2_Cleaned Articles_Classification.ipynb in same directory as 
-unzipped files in order to run classification models.
+unzipped files in order to run classification models and create important features list.
 
 ## Raw Data:
 
