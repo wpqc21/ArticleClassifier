@@ -14,8 +14,8 @@ unzipped files in order to run classification models and create important featur
 
 ## Raw Data:
 
-Link to .zip file of articles used for INPUT1: Quoted Words:
-https://www.dropbox.com/sh/jo1w50oqo5dbd6b/AACITL7aGCKJsIVYFlwryuKoa?dl=0
+Link to .zip file of articles used for INPUT1: Quoted Words: (EDIT: FIXED 01/19/2022)
+https://www.dropbox.com/sh/wjeusu6jrqvyut7/AAC6Z5NIxQdepS7bU-VVbB2xa?dl=0
 
 Link to the .zip file of articles used for INPUT2: Cleaned Articles:
 https://www.dropbox.com/s/rwdb7et0ppyc8o5/data.zip?dl=0
