@@ -5,7 +5,7 @@
 
 2. Run INPUT1_Quotes_Article_Preprocessing_2.ipynb in same directory as 1st set of .pkl files order to clean and create 2nd set of .pkl files.
 
-(Preprocessing can take several days to run, folder of preprocessed .pkl files are also included within first Dropbox link)
+(Preprocessing can take several days to run, folder "Preprocessed .pkl Files" are also included within first Dropbox link)
 
 ## INPUT1: Quoted Words
 1. Run INPUT1_Quoted_Words_Classification.ipynb in same directory as 2nd set of .pkl files in order to run classification models. 
