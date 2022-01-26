@@ -1,4 +1,4 @@
-# ArticleClassifier
+# Article Classifier Project
 
 ## Preprocessing
 1. Download files from INPUT1: Quoted Words zip folder, run INPUT1_Quotes_Article_Preprocessing_1.ipynb in same directory as unzipped text file folders (copy text file folders to ArticleClassifier-main) in order to create 1st set of .pkl dataframe files.
